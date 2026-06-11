@@ -20,7 +20,7 @@ The project is built in Python 3. To run the simulations and visualize the theor
 * `jupyter`
 
 ## Repository Structure
-* `matrix_transfer_temperature.ipynb`: The core Jupyter Notebook containing the full pipeline: variable definitions, continuous thermal profile generation, TMM matrix loop implementation, and visualization of the transmission spectra.
+* `Temp_Matrix_Trans_v2.ipynb`: The core Jupyter Notebook containing the full pipeline: variable definitions, continuous thermal profile generation, TMM matrix loop implementation, and visualization of the transmission spectra.
 * `README.md`: Project documentation.
 
 ## Usage
